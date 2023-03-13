@@ -16,14 +16,14 @@ TODO:
 March 13 Update:
 Dataset Creation
 
-1. a) The data used will be from kaggle.
-   b) The data will be downloaded through csv files.
-   c) The license is CC0: Public Domain.
-   d) [https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv).
+1. a) The data used will be from kaggle. <br /> 
+   b) The data will be downloaded through csv files. <br />
+   c) The license is CC0: Public Domain.<br />
+   d) [https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv). <br />
    
-2. a) The main dataset with movie descriptions contains 45,000 movies with 24 attributes(budget, genres, revenue, etc.). A second dataset contains 26 million ratings from 270,000 users for all movies.
-   b) The datasets are in csv format.
-   c) The datasets are in dataframes.
+2. a) The main dataset with movie descriptions contains 45,000 movies with 24 attributes(budget, genres, revenue, etc.). A second dataset contains 26 million ratings from 270,000 users for all movies. <br />
+   b) The datasets are in csv format. <br />
+   c) The datasets are in dataframes. <br />
    
-3. a) No data models are used.
+3. a) No data models are used. <br />
    b) Lists and dictionaries are used in the dataset.
