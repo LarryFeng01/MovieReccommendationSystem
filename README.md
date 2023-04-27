@@ -5,25 +5,4 @@ The reccommendation system is an important part of our lives, even through many 
 
 In this project, I hope to gain some insight on how large companies use their reccommendation systems to gain profits and how I can turn my natural language processing programming into a marketable skill.
 
-TODO:
-- Research: Understand what kind of reccommendation system I'm looking for- Demographic Filtering, Content Based Filtering, or Collaborative Filtering.
-- Data: Find a dataset that contains movie descriptions and ratings
-  - Potential Problem: Dataset is not large enough, Data is not cleaned, 
-  - Find data that I can work with (able to run with my GPU)
-  
-  
 
-March 13 Update:
-Dataset Creation
-
-1. a) The data used will be from kaggle. <br /> 
-   b) The data will be downloaded through csv files. <br />
-   c) The license is CC0: Public Domain.<br />
-   d) [https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv). <br />
-   
-2. a) The main dataset with movie descriptions contains 45,000 movies with 24 attributes(budget, genres, revenue, etc.). A second dataset contains 26 million ratings from 270,000 users for all movies. <br />
-   b) The datasets are in csv format. <br />
-   c) The datasets are in dataframes. <br />
-   
-3. a) No data models are used. <br />
-   b) Lists and dictionaries are used in the dataset.
